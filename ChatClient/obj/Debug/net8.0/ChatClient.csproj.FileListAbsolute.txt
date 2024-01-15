@@ -1,0 +1,28 @@
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/bin/Debug/net8.0/ChatClient
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/bin/Debug/net8.0/ChatClient.deps.json
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/bin/Debug/net8.0/ChatClient.runtimeconfig.json
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/bin/Debug/net8.0/ChatClient.dll
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/bin/Debug/net8.0/ChatClient.pdb
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.AssemblyInfoInputs.cache
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.AssemblyInfo.cs
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.csproj.CoreCompileInputs.cache
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.dll
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/obj/Debug/net8.0/refint/ChatClient.dll
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.pdb
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.genruntimeconfig.cache
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp4.0/ChatClient/obj/Debug/net8.0/ref/ChatClient.dll
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/bin/Debug/net8.0/ChatClient
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/bin/Debug/net8.0/ChatClient.deps.json
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/bin/Debug/net8.0/ChatClient.runtimeconfig.json
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/bin/Debug/net8.0/ChatClient.dll
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/bin/Debug/net8.0/ChatClient.pdb
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.AssemblyInfoInputs.cache
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.AssemblyInfo.cs
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.csproj.CoreCompileInputs.cache
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.dll
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/obj/Debug/net8.0/refint/ChatClient.dll
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.pdb
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/obj/Debug/net8.0/ChatClient.genruntimeconfig.cache
+/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/Final ChatApp4.0/ChatApp4.0/ChatClient/obj/Debug/net8.0/ref/ChatClient.dll
